@@ -1,5 +1,5 @@
 # AI Generated Text Detector
-
+Challenge "Construire un modèle capable de détecter si un texte est écrit par un humain ou par une IA"
 ## Description
 
 This project is a text classifier designed to distinguish between AI-generated and human-generated text. It leverages the Hello-SimpleAI/HC3 dataset from Hugging Face and employs a Support Vector Machine (SVM) model for classification.
